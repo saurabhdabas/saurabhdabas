@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently solidifying my foundation in **Javascript | React | Node.js**
 
-- 👯 I’m looking to collaborate on **Full Stack Development**
-
 - 📝 Articles written by me [https://medium.com/@developerdabas](https://medium.com/@developerdabas)
 
 - 📫 How to reach me **saurabhdabas7@gmail.com**
