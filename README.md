@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhdabas" alt="saurabhdabas" /></a> </p>
 
-- 🌱 I’m currently working on my portfolio website which will be built in  **Next.js | Tailwind**
+- 🌱 I’m currently learning **Basics of Python**
 
 - 🔴 Checkout my pinned projects. 
 
