@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhdabas" alt="saurabhdabas" /></a> </p>
 
-- 🌱 Currently learning python and django web development
+- 🌱 Currently I am learning GraphQL
 
 - 🔴 Checkout my pinned projects. 
 
