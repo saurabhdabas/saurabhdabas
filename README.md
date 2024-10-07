@@ -13,9 +13,6 @@
 
 - 📫 How to reach me **saurabhdabas7@gmail.com**
 
-- 📄 Know about my experiences [https://resume.creddle.io/resume/41kxny6bo27](https://resume.creddle.io/resume/41kxny6bo27)
-
-- ⚡ Looking for Job opportunities in **Full Stack Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
